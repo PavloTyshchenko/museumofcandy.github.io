@@ -1,2 +1,2 @@
-# museumofcandy.github.io
+# pavlotyshchenko.github.io
 Simple Bootstrap project
