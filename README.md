@@ -1,2 +1,2 @@
 # pavlotyshchenko.github.io
-Simple Bootstrap project
+Simple Bootstrap project. It's a GitHub Page
